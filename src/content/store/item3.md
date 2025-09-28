@@ -1,15 +1,59 @@
 ---
-title: "Demo Item 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-custom_link_label: "Custom Btn"
-custom_link: "https://customurl.com/"
-updatedDate: "Sep 11 2022"
-pricing: "$10"
-oldPricing: "$25.5"
-checkoutUrl: "https://checkouturl.com/"
+title: "Professional Engineering Calculation Templates"
+description: "Comprehensive Excel templates for structural calculations, load analysis, and design verification - essential tools for practicing civil engineers."
+custom_link_label: "Download Sample"
+custom_link: "mailto:mahmoudabouarab355@gmail.com"
+updatedDate: "Jan 12 2024"
+pricing: "$150"
+oldPricing: "$200"
+checkoutUrl: "mailto:mahmoudabouarab355@gmail.com"
 heroImage: "/itemPreview.webp"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## Professional Engineering Calculation Templates
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Complete collection of Excel-based calculation templates designed specifically for civil engineers. These templates streamline design processes and ensure accuracy in structural engineering calculations.
+
+### Template Collection Includes
+
+**Structural Analysis Templates:**
+- Beam design and analysis (concrete and steel)
+- Column design calculations
+- Foundation design (shallow and deep)
+- Slab design and deflection analysis
+- Retaining wall design and stability
+
+**Load Calculation Templates:**
+- Dead and live load calculations
+- Wind load analysis per local codes
+- Seismic load calculations
+- Load combination generators
+- Load path analysis tools
+
+### Key Features
+
+- **Code Compliant**: Based on Egyptian Building Code and international standards
+- **Automated Calculations**: Reduce manual calculation errors
+- **Professional Reports**: Generate formatted calculation reports
+- **Customizable**: Easily adapt to project-specific requirements
+- **Documentation**: Comprehensive user guide and examples
+
+### What You Get
+
+- 25+ Excel calculation templates
+- User manual with step-by-step instructions
+- Sample calculation examples
+- Technical support for 6 months
+- Free updates for one year
+
+### Professional Benefits
+
+- **Time Saving**: Reduce calculation time by 70%
+- **Quality Assurance**: Built-in error checking and validation
+- **Consistency**: Standardized calculation approach
+- **Documentation**: Automatic generation of calculation reports
+- **Compliance**: Ensures adherence to building codes
+
+Perfect for structural engineers, consultancies, and engineering students looking to enhance their calculation workflow and ensure accuracy in their designs.
+
+Contact for site license pricing and customization options.

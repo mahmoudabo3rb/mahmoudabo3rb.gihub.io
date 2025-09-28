@@ -1,15 +1,48 @@
 ---
-title: "Demo Item 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-custom_link_label: "Custom Btn"
-custom_link: "https://customurl.com/"
-updatedDate: "Sep 11 2022"
-pricing: "$10"
-oldPricing: "$25.5"
-checkoutUrl: "https://checkouturl.com/"
+title: "High-Strength Concrete Admixtures"
+description: "Premium concrete admixtures for enhanced durability and performance in harsh environmental conditions, ideal for coastal and high-rise construction."
+custom_link_label: "Technical Specifications"
+custom_link: "mailto:mahmoudabouarab355@gmail.com"
+updatedDate: "Feb 20 2024"
+pricing: "$45/bag"
+oldPricing: "$55/bag"
+checkoutUrl: "mailto:mahmoudabouarab355@gmail.com"
 heroImage: "/itemPreview.webp"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## High-Performance Concrete Admixtures
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Specialized concrete admixtures designed for challenging construction environments, particularly effective for coastal construction where chloride resistance is critical.
+
+### Product Features
+
+- **Chloride Resistance**: Advanced protection against salt water penetration
+- **High Durability**: Extended service life in harsh environments  
+- **Improved Workability**: Enhanced concrete placement and finishing
+- **Reduced Permeability**: Superior protection against water ingress
+- **Corrosion Protection**: Advanced protection for reinforcing steel
+
+### Applications
+
+- High-rise building construction
+- Coastal and marine structures
+- Bridge and infrastructure projects
+- Industrial facilities
+- Parking structures and foundations
+
+### Technical Specifications
+
+- **Dosage**: 2-4% by cement weight
+- **Packaging**: 25kg bags
+- **Shelf Life**: 12 months in original packaging
+- **Compatibility**: Works with all standard cement types
+- **Standards**: Meets ASTM C494 Type F requirements
+
+### Benefits
+
+- Significantly reduces maintenance costs
+- Extends structural service life
+- Improves construction quality
+- Cost-effective solution for demanding applications
+
+Contact for bulk pricing and technical support for your specific project requirements.

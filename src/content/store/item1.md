@@ -1,15 +1,43 @@
 ---
-title: "Demo Item 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-custom_link_label: "Live Preview"
-custom_link: "https://demourl.com/"
-updatedDate: "Sep 15 2022"
-pricing: "$15"
-badge: "Featured"
-checkoutUrl: "https://checkouturl.com/"
+title: "Professional Structural Analysis Software License"
+description: "Annual license for ETABS structural analysis and design software - essential tool for civil engineers working on building structures."
+custom_link_label: "Software Details"
+custom_link: "https://www.csiamerica.com/products/etabs"
+updatedDate: "Mar 15 2024"
+pricing: "$2,500/year"
+badge: "Professional"
+checkoutUrl: "mailto:mahmoudabouarab355@gmail.com"
 heroImage: "/itemPreview.webp"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## ETABS Professional License
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+ETABS is the ultimate integrated software package for the structural analysis and design of buildings. This professional license provides access to the most advanced tools for modeling and analyzing building structures.
+
+### Key Features
+
+- **Advanced Modeling**: Create complex 3D structural models with ease
+- **Comprehensive Analysis**: Linear and nonlinear static and dynamic analysis
+- **Code Compliance**: Built-in design codes for concrete, steel, and composite structures
+- **Integration**: Seamless integration with other CSI software products
+- **Documentation**: Professional drawing and reporting capabilities
+
+### What's Included
+
+- Full ETABS Professional software license (1 year)
+- Technical support and software updates
+- Access to online training materials and webinars
+- Installation support and initial setup assistance
+
+### Ideal For
+
+- Structural engineers working on building projects
+- Engineering consultancies and design firms
+- Academic institutions and research facilities
+- Government agencies and municipal engineering departments
+
+### License Terms
+
+This is an annual subscription license that provides full access to ETABS Professional software. License includes technical support, software updates, and cloud collaboration features.
+
+**Contact me for bulk licensing discounts and educational pricing options.**
